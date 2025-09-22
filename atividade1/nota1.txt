@@ -1,0 +1,3 @@
+Comparar os três códigos, percebe que o uso de goto é complexo e de difícil compreensão, requer saltos manuais que interrompem a sequência lógica. 
+O while melhora a organização, mas ainda requer inicialização e incremento separados, o que torna o loop menos direto. 
+O for é o método mais claro e legível para loops contados, pois reúne a inicialização, a condição e o incremento em uma única linha, o que torna o código mais fácil de ler e manter.

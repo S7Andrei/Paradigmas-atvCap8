@@ -1,0 +1,3 @@
+Sem usar goto, o código fica mais limpo e fácil de entender. 
+Com break, continue e return, Há como controlar o fluxo sem criar rótulos e saltos manuais, tornando a lógica mais clara e segura. 
+Se usássemos goto, o código precisaria de múltiplos rótulos e saltos, o que aumentaria a complexidade e o risco de erros.

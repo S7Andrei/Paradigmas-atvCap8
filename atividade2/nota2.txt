@@ -1,0 +1,2 @@
+Entre as linguagens, Python foi mais simples e rápido de implementar, graças à sua sintaxe limpa e menor quantidade de código necessário. 
+Em C, A implementação exige mais linhas e atenção aos tipos de variáveis e estrutura do switch/case, tornando o desenvolvimento mais detalhado e verboso.
